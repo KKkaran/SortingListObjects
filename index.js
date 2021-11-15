@@ -14,6 +14,10 @@ var scores = [
             {
               "name":"Taskysdsd",
               "score":192   
+            },
+            {
+                "name" : "Toshi",
+                "score" : 2000
             }
 ]
 var newList = []
